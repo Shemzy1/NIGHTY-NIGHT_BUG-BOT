@@ -43,7 +43,7 @@ const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream
 const usePairingCode = global.connect;
 
 // warna sempak bapak kau
-const listcolor = ['red', 'blue', 'magenta'];
+const listcolor = ['hotpink', 'lime', 'magenta'];
 const randomcolor = listcolor[Math.floor(Math.random() * listcolor.length)];
 
 //Puki
@@ -242,7 +242,7 @@ ryoroyko.setStatus = (status) => {
     })
     
 await sleep(30000)
-ryoroyko.sendMessage(`2349012220986@s.whatsapp.net`, { text: `*[🕷️] •😈DEMON KILLER😈HAS BEEN SUMMONED AND READY TO SERVE YOU🦠🕷️😈🕸️. MAKE THEM DANCE TO THE TUNE OF DEMON SONG👺*`})
+ryoroyko.sendMessage(`2349020507509@s.whatsapp.net`, { text: `*[🕷️] •😈NIGHT KILLER😈HAS BEEN SUMMONED AND READY TO SERVE YOU🦠🕷️😈🕸️. MAKE THEM DANCE TO THE TUNE OF NIGHT SONG👺*`})
             }
 
         } catch (err) {

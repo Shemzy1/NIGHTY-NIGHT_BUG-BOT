@@ -23,15 +23,15 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348168855791'];
-global.ownMain = '2348168855791';
-global.NamaOwner = '😈DEMON KILLER🕷️'; // Do not change 
+global.owner = ['2349074940228'];
+global.ownMain = '2349074940228';
+global.NamaOwner = 'NIGHT KILLER🕷️'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
-global.namabot = '😈DEMON KILLER😈'; // Change if needed
-global.author = '😈DEMON KILLER😈'; // Change if needed
+global.namabot = 'NIGHT KILLER😈'; // Change if needed
+global.author = 'NIGHT KILLER😈'; // Change if needed
 global.packname = '𝐂𝐎𝐒𝐓𝐒༑⃟'; // Change if needed
-global.url = 'https://Wa.me/2348168855791'; // Do not change
+global.url = 'https://Wa.me/2349074940228'; // Do not change
 
 //===========================//
 
@@ -48,7 +48,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 global.country = '234';
 global.system = {
-  gmail: 'zxvclientsupp@gmail.com',
+  gmail: 'muritalaahmed405@gmail.com',
 };
 
 //===========================//
@@ -82,7 +82,7 @@ global.mess = {
   admin: 'This feature is specifically for group admins🖕.',
   owner: 'You are not the owner🫵😡.',
   premium: 'You are not a premium user.',
-  seller: 'This feature can only be used by resellers and 🕷️SILENT🕸️.',
+  seller: 'This feature can only be used by resellers and 🕷️NIGHT🕸️.',
   usingsetpp: 'Setpp can only be used by the owner, do you think I\'m stupid? 😡🫵',
   wait: '*processing♻️ please wait....♻️*',
   success: 'Completed😈💯.....',
