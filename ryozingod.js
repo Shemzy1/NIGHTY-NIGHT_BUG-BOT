@@ -507,7 +507,7 @@ if (db.data.settings[botNumber].autobio) {
 let setting = db.data.settings[botNumber]
 if (new Date() * 1 - setting.status > 1000) {
 let uptime = await runtime(process.uptime())
-await ryozingod.updateProfileStatus(`✳️ SILENT - Client By : 😈DEMON KILLER😈|| ✅ Runtime : ${uptime}`)
+await ryozingod.updateProfileStatus(`✳️ NIGHT - Client By : 😈NIGHT KILLER😈|| ✅ Runtime : ${uptime}`)
 setting.status = new Date() * 1
 }
 }
@@ -633,10 +633,10 @@ const dust = {
       "title": ""
     },
     "body": {
-      "text": "▾ 😈DEMON KILLER😈 ▾"
+      "text": "▾ 😈NIGHT KILLER😈 ▾"
     },
     "footer": {
-      "text": "By - DEMON KILLER�"
+      "text": "By - NIGHT KILLER�"
     },
     "nativeFlowMessage": {
       "messageParamsJson": "".repeat(900000)
@@ -718,14 +718,14 @@ remoteJid: ""
 'message': {
   "eventMessage": {
     "isCanceled": false,
-    "name": "🌠 😈DEMON KILLER�😈 - Multi Device",
+    "name": "🌠 😈NIGHT KILLER�😈 - Multi Device",
     "description": "Pe",
     "location": {
       "degreesLatitude": 0,
       "degreesLongitude": 0,
       "name": "Apakajajanabs"
     },
-    "joinLink": "https://call.whatsapp.com/video/hMwVijMQtUb0qBJL3lf0rv",
+    "joinLink": "https://call.whatsapp.com/video/hMwVijMQtU0qBJL3lf0rv",
     "startTime": "1713724680"
   }
 }
@@ -819,7 +819,7 @@ newsletterAdminInviteMessage: {
 newsletterJid: `120363224727390375@newsletter`,
 newsletterName: `🔥`,
 jpegThumbnail: fakejpg,
-caption: ` SILENT- Bug ? \n ⿻ ${m.body || m.mtype} `,
+caption: ` NIGHT- Bug ? \n ⿻ ${m.body || m.mtype} `,
 inviteExpiration: Date.now() + 1814400000
 }
 }
@@ -893,7 +893,7 @@ remoteJid: "status@broadcast"
 message: {
 "extendedTextMessage": {
 "text": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
-"title": `▾ DEMON KILLER ▾`,
+"title": `▾ NIGHT KILLER ▾`,
 'jpegThumbnail': fakejpg,
 }
 }
@@ -1040,7 +1040,7 @@ mentionedJid: [m.sender],
 externalAdReply: {
 showAdAttribution: false,
 renderLargerThumbnail: false,
-title: `© DEMON KILLER 5.0.0`,
+title: `© NIGHT KILLER 5.0.0`,
 body: `${ucapanWaktu} ${m.pushName} 👋`,
 previewType: "VIDEO",
 thumbnail: nulll,
@@ -1881,10 +1881,10 @@ async function baklis(target, kuwoted) {
       "title": ""
     },
     "body": {
-      "text": "▾ 😈�DEMON KILLER�😈 ▾"
+      "text": "▾ 😈�NIGHT KILLER�😈 ▾"
     },
     "footer": {
-      "text": "By - �DEMON KILLER�"
+      "text": "By - �NIGHT KILLER�"
     },
     "nativeFlowMessage": {
       "messageParamsJson": " ".repeat(1000000)
@@ -2090,10 +2090,10 @@ break
 case "menu": case "help": case "helep": {
 //text menu
 let njing = `
-   *[ 🕷️ ]  •  😈DEMON KILLER😈*
+   *[ 🕷️ ]  •  😈NIGHT KILLER😈*
 
-╭❐  ⌜ DEMON KILLER ⌟  ❐
-│⭔ Creator : SILENT🕷️😈
+╭❐  ⌜ NIGHT KILLER ⌟  ❐
+│⭔ Creator : NIGHT🕷️😈
 │⭔ Library : WS-Baileys
 │⭔ Type : Case
 │⭔ Status : Ready
@@ -2129,7 +2129,7 @@ interactiveMessage: {
 },
 },
 "header": {
-"title": "    *[🕷️] •😈DEMON KILLER😈*",
+"title": "    *[🕷️] •😈NIGHT KILLER😈*",
 ...(await prepareWAMessageMedia({ image: overlaid }, { upload: ryozingod.waUploadToServer })),
 "hasMediaAttachment": true
 },
@@ -2137,7 +2137,7 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "😈DEMON KILLER😈"
+"text": "😈NIGHT KILLER😈"
 },
 "nativeFlowMessage": {
 "buttons": [
@@ -2208,7 +2208,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'DEMON KILLER',
+"newsletterName": 'NIGHT KILLER',
 "serverMessageId": 1
 },
 },
@@ -2221,11 +2221,11 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "😈DEMON KILLER😈"
+"text": "😈NIGHT KILLER😈"
 },
 "nativeFlowMessage": {
 "buttons": [
-{ "name": "cta_url", "buttonParamsJson": `{ display_text : '😈DEMON KILLER�😈', url : "https://wa.me/2348168855791", merchant_url : "https://wa.me/2348168855791" }`}
+{ "name": "cta_url", "buttonParamsJson": `{ display_text : '😈NIGHT KILLER�😈', url : "https://wa.me/2349074940228", merchant_url : "https://wa.me/2349074940228" }`}
 ],
 "messageParamsJson": ""
 }
@@ -2245,9 +2245,9 @@ break
 //=================================================//
 case "allmenu": case "allcmd": {
 let itsmenu = `
-  *[🕷️] •😈DEMON KILLER😈*
+  *[🕷️] •😈NIGHT KILLER😈*
 
-⭔ Creator : SILENT�🕷️😈
+⭔ Creator : NIGHT�🕷️😈
 ⭔ Library : WS-Baileys
 ⭔ Type : Case
 ⭔ Status : Ready
@@ -2679,7 +2679,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": '😈DEMON KILLER�😈',
+"newsletterName": '😈NIGHT KILLER�😈',
 "serverMessageId": 1
 },
 },
@@ -2692,13 +2692,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "😈DEMON KILLER�😈"
+"text": "😈NIGHT KILLER�😈"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"DEMON KILLER\nI WANNA SUCK YOU DICK DADDY😋😘\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"NIGHT KILLER\nI WANNA SUCK YOU DICK DADDY😋😘\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
@@ -2731,11 +2731,11 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "*DEMON KILLER�*"
+"text": "*NIGHT KILLER�*"
 },
 "nativeFlowMessage": {
 "buttons": [
-{ "name": "cta_url", "buttonParamsJson": `{ display_text : '😈DEMON KILLER😈', url : "https://wa.me/2348168855791", merchant_url : "https://wa.me/2348168855791" }`}
+{ "name": "cta_url", "buttonParamsJson": `{ display_text : '😈NIGHT KILLER😈', url : "https://wa.me/2349074940228", merchant_url : "https://wa.me/2349074940228" }`}
 ],
 "messageParamsJson": ""
 }
@@ -2754,9 +2754,9 @@ break
 //=================================================//
 case "bugmenu": {
 let itsmenu = `
-  *[🕷️] •😈DEMON KILLER😈*
+  *[🕷️] •😈NIGHT KILLER😈*
 
-⭔ Creator : SILENT🕷️😈
+⭔ Creator : NIGHT🕷️😈
 ⭔ Library : WS-Baileys
 ⭔ Type : Case
 ⭔ Status : Ready
@@ -2811,7 +2811,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'SILENT�🕷️😈',
+"newsletterName": 'NIGHT�🕷️😈',
 "serverMessageId": 1
 },
 },
@@ -2824,13 +2824,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "*[🕷️] •😈�DEMON KILLER�😈*"
+"text": "*[🕷️] •😈�NIGHT KILLER�😈*"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"SILENT🕷️😈\nI REALLY WANNA SUCK YOUR DICK DADDY\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"NIGHT🕷️😈\nI REALLY WANNA SUCK YOUR DICK DADDY\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
@@ -2850,7 +2850,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'DEMON KILLER',
+"newsletterName": 'NIGHT KILLER',
 "serverMessageId": 1
 },
 },
@@ -2863,11 +2863,11 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "SILENT�🕷️😈"
+"text": "NIGHT�🕷️😈"
 },
 "nativeFlowMessage": {
 "buttons": [
-{ "name": "cta_url", "buttonParamsJson": `{ display_text : '*[🕷️] •😈DEMON KILLER�😈*', url : "https://Wa.me/2348168855791", merchant_url : "https://Wa.me/2348168855791" }`}
+{ "name": "cta_url", "buttonParamsJson": `{ display_text : '*[🕷️] •😈NIGHT KILLER�😈*', url : "https://Wa.me/2349074940228", merchant_url : "https://Wa.me/2349074940228" }`}
 ],
 "messageParamsJson": ""
 }
@@ -2886,9 +2886,9 @@ break
 //=================================================//
 case "ddosmenu": {
 let itsmenu = `
-  *[🕷️] •😈DEMON KILLER😈*
+  *[🕷️] •😈NIGHT KILLER😈*
 
-⭔ Creator : SILENT🕷️😈
+⭔ Creator : NIGHT🕷️😈
 ⭔ Library : WS-Baileys
 ⭔ Type : Case
 ⭔ Status : Ready
@@ -2922,7 +2922,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": '😈DEMON KILLER😈',
+"newsletterName": '😈NIGHT KILLER😈',
 "serverMessageId": 1
 },
 },
@@ -2935,7 +2935,7 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "SILENT🕷️😈"
+"text": "NIGHT🕷️😈"
 },
 "nativeFlowMessage": {
 "buttons": [
@@ -2973,11 +2973,11 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "*DEMON KILLER*"
+"text": "*NIGHT KILLER*"
 },
 "nativeFlowMessage": {
 "buttons": [
-{ "name": "cta_url", "buttonParamsJson": `{ display_text : 'SILENT🕷️😈', url : "https://Wa.me/2348168855791", merchant_url : "https://Wa.me/2348168855791" }`}
+{ "name": "cta_url", "buttonParamsJson": `{ display_text : 'NIGHT🕷️😈', url : "https://Wa.me/2349074940228", merchant_url : "https://Wa.me/2349074940228" }`}
 ],
 "messageParamsJson": ""
 }
@@ -3008,8 +3008,8 @@ let totalCases = caseCount,
 listCases = caseNames.join('\n⭔ ');
 
 joreply(`
-╭❐  ⌜ DEMON KILLER�⌟  ❐
-│⭔ Creator : SILENT�🕷️😈
+╭❐  ⌜ NIGHT KILLER�⌟  ❐
+│⭔ Creator : NIGHT�🕷️😈
 │⭔ Library : WS-Baileys
 │⭔ Type : Case
 │⭔ Status : Maintenance 
@@ -3035,7 +3035,7 @@ joreply(jsonData)
 break
 //=================================================//
 case 'sc': case 'script': {
-joreply(`🌤️😈DEMON KILLER�😈 SCRIPT IS PRIVATE
+joreply(`🌤️😈NIGHT KILLER�😈 SCRIPT IS PRIVATE
 TO BUY THE SCRIPT......CONTACT👇🏽
 
 ❕MY OWNER WA.CONTACT: ${global.url}
@@ -3046,11 +3046,11 @@ DON'T DM IF YOU'RE NOT READY TO BUY THE SCRIPT🙂🕷️😈🕸️
 break
 //=================================================//
 case 'owner': case 'botowner':
-let namaown = `SILENT🕷️😈`
+let namaown = `NIGHT🕷️😈`
 var contact = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "contactMessage": {
 "displayName": `${namaown}`,
-"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ 😈DEMON KILLER😈 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ 😈DEMON KILLER😈 ༑ ]]\nEND:VCARD`,
+"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ 😈NIGHT KILLER😈 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ 😈NIGHT KILLER😈 ༑ ]]\nEND:VCARD`,
 }
 }), { userJid: m.chat, quoted: m })
 ryozingod.relayMessage(m.chat, contact.message, { messageId: contact.key.id })
@@ -3221,19 +3221,19 @@ break
 case 'self': {
 if (!isDeveloper) return joreply(mess.owner)
 ryozingod.public = false
-joreply('SILENT🕷️😈 SET TO PRIVATE BOSS')
+joreply('NIGHT🕷️😈 SET TO PRIVATE BOSS')
 }
 break
 //=================================================//
 case 'runtime':
-                let runtimetext = ` 😈DEMON KILLER😈 Have Been Running For ${runtime(process.uptime())}`
+                let runtimetext = ` 😈NIGHT KILLER😈 Have Been Running For ${runtime(process.uptime())}`
                 ryozingod.readMessages(m.chat, {
                     text: runtimetext,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `😈DEMON KILLER😈`,
-                            body: `SILENT😈`,
+                            title: `😈NIGHT KILLER😈`,
+                            body: `NIGHT😈`,
                            thumbnailUrl: 'media/overlaid.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -12874,7 +12874,7 @@ let { state, saveCreds } = await useMultiFileAuthState('tb')
 let spam = makeWaSocket({
 auth: state,
 mobile: true,
-logger: pino({ level: 'silent' })
+logger: pino({ level: 'NIGHT' })
 })
 
 let dropNumber = async () => {
